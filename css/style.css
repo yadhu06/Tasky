@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+    background-color: #7C83FD;
+    padding : 20px;
+   
+}
+
+h1{
+    background-image: url("https://myanimelist.net/");
+    text-align: center;
+    color:  rgb(255, 255, 255);
+}
+
+h2{
+    background-color: #7DEDFF;
+    text-align: left;
+}
+
+ol{
+    display:inline;
+    color: #EDF6E5;
+    line-height: 50px;
+}
+img{
+    display: block;
+    border-radius: 50%;
+    width:100px;
+    height:100px;
+    margin: 0 auto;
+}
+
+form{
+    background-color: #88FFF7;
+}
+
+form label{
+    color: #171010;
+    margin-right: 20px;
+    text-align: left;
+}
+
+
+form input{
+    margin-left: 50px;
+    width:20%;
+    border-radius: 2rem;   
+    border: none;
+}
+
+form input{
+    text-align: center;
+}
